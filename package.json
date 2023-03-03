@@ -8,7 +8,7 @@
     "main": "src/index.js",
     "dependencies": {
         "figlet": "latest",
-        "pm2": "^2.10.1",
+        "pm2": "^5.2.2",
         "ws": "latest"
     },
     "devDependencies": {},
